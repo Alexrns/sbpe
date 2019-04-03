@@ -1,4 +1,4 @@
-# StarBreak Plugin Engine (SBPE)
+# StarBreak Plugin Engine (SBPE) !!UPDATE 1.6.1!!
 
 ## Features
 
