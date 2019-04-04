@@ -224,6 +224,8 @@ for plugin ideas see `notes.txt`
 ## Thanks
 
 Thanks to Crunchy Games for not stripping symbols from the binary, would probably never make this without them.
+And thanks to Atomizer for this wonderful plugin
+ -Alexrns
 
 ## License
 
