@@ -239,7 +239,8 @@ class Plugin(PluginBase):
 
         inbounds = (x1 + dw2 >= 0 and x1 - dw2 <= cw and y1 + dh2 >= 0 and y1 - dh2 <= ch)
 
-        if inbounds and self.config[optprefix + 'frame'] == 0:
+        # Changing the value in the line below from 0 to 1 to try to keep the arrow on screen when you can see the object
+        if inbounds and self.config[optprefix + 'frame'] == 1:
             return
 
         if inbounds:
